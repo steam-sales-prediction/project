@@ -54,4 +54,3 @@ Try to write clean markdown inside notebooks. A good notebook tells a story, not
 Before submitting a notebook in a PR, make sure to:
 
 - **Restart & Run All:** Restart and run all cells from top to bottom to ensure there are no issues or errors.
-- **Clean Cell Outputs:** Make sure that the remaining cell outputs are useful ones and remove any unnecessary cell outputs.
