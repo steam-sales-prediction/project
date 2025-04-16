@@ -1,0 +1,22 @@
+# Ensure consistent line endings for text files (LF)
+*.py      text eol=lf
+*.ipynb   text eol=lf
+*.md      text eol=lf
+*.csv     text eol=lf
+*.tsv     text eol=lf
+*.txt     text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+*.json    text eol=lf
+
+# Binary files - treat as-is (no line ending normalization)
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.ico     binary
+*.pdf     binary
+*.zip     binary
+
+# Jupyter Notebook metadata cleanup helpers
+*.ipynb filter=strip-notebook-output
