@@ -8,6 +8,7 @@ We should aim to follow the famous python [PEP 8](https://peps.python.org/pep-00
 - **Functions**: Use `snake_case` (e.g., `my_function`).
 - **Classes**: Use `PascalCase` (e.g., `MyClass`).
 - **Constants**: Use `UPPER_CASE` (e.g., `HYPER_PARAMETER`)
+- **Jupyter Notebooks**: Use `snake_case` (e.g., `clean_dlcs.ipynb`). 
 
 ## 2. Indentation and Spacing
 
