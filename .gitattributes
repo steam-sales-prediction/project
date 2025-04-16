@@ -18,5 +18,6 @@
 *.pdf     binary
 *.zip     binary
 
-# Jupyter Notebook metadata cleanup helpers
-*.ipynb filter=strip-notebook-output
+# Python Notebook metadata cleanup helpers
+*.zpln filter=nbstripout
+*.ipynb diff=ipynb

@@ -49,8 +49,14 @@ git commit -m "conventional_type: message" -m "description"
 
 ## 4. Jupyter Notebook
 
-Try to write clean markdown inside notebooks. A good notebook tells a story, not just runs code.
+- Try to write clean markdown inside notebooks. A good notebook tells a story, not just runs code.
 
-Before submitting a notebook in a PR, make sure to:
+- Ensure the kernel is set to use our `.venv` Python environment.
 
-- **Restart & Run All:** Restart and run all cells from top to bottom to ensure there are no issues or errors.
+- Before submitting a notebook in a pull request:
+
+  - Restart the kernel
+
+  - Run all cells
+
+  - Ensure everything runs correctly and produces the expected output with no errors.

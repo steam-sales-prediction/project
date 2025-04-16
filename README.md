@@ -21,6 +21,5 @@ python3 -m venv .venv
 .venv\Scripts\activate # On Windows
 source .venv/bin/activate # On Linux/Mac
 pip install -r requirements.txt
-pre-commit install
 ```
 Then you're ready to start coding!
