@@ -20,4 +20,4 @@
 
 # Python Notebook metadata cleanup helpers
 *.zpln filter=nbstripout
-*.ipynb diff=ipynb
+*.ipynb filter=nbstripout diff=ipynb
