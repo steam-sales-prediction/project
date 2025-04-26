@@ -120,3 +120,7 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.14
 wordcloud==1.9.4
 boruta==0.4.3
+xgboost==3.0.0
+lightgbm==4.6.0
+catboost==1.2.8
+
