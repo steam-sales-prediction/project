@@ -1,0 +1,15 @@
+{
+    "appid" : 0,
+    "name": "#NAME?",
+    "metacritic": 73,
+    "steam_achievements": false,
+    "steam_trading_cards": false,
+    "workshop_support": false,
+    "genres": "Action, Adventure, Indie",
+    "achievements_total": 18.0,
+    "release_date": "Coming soon",
+    "supported_platforms": "['windows']",
+    "price": 0.0,
+    "publisherClass": "Hobbyist",
+    "reviewScore": 80.0
+}
