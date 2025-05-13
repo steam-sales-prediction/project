@@ -1,0 +1,37 @@
+{
+    "metacritic": {
+        "lower_bound": 48.5,
+        "median": 75.0,
+        "upper_bound": 100.5,
+        "Q1": 68.0,
+        "Q3": 81.0
+    },
+    "price": {
+        "lower_bound": -12.51,
+        "median": 4.99,
+        "upper_bound": 23.490000000000002,
+        "Q1": 0.99,
+        "Q3": 9.99
+    },
+    "reviewScore": {
+        "lower_bound": 10.5,
+        "median": 80.0,
+        "upper_bound": 142.5,
+        "Q1": 60.0,
+        "Q3": 93.0
+    },
+    "demo_count": {
+        "lower_bound": 0.0,
+        "median": 0.0,
+        "upper_bound": 0.0,
+        "Q1": 0.0,
+        "Q3": 0.0
+    },
+    "dlc_count": {
+        "lower_bound": 0.0,
+        "median": 0.0,
+        "upper_bound": 0.0,
+        "Q1": 0.0,
+        "Q3": 0.0
+    }
+}

@@ -1,6 +1,11 @@
 {
-    "appid" : 0,
+    "Unnamed: 0": "DROP",
+    "full_game_appid": 0,
+    "demo_appid": 0,
     "name": "#NAME?",
+    "base_appid": 0,
+    "dlc_appid": 0,
+    "appid": 0,
     "metacritic": 73,
     "steam_achievements": false,
     "steam_trading_cards": false,
@@ -9,7 +14,9 @@
     "achievements_total": 18.0,
     "release_date": "Coming soon",
     "supported_platforms": "['windows']",
+    "steamId": 3596260.0,
     "price": 0.0,
     "publisherClass": "Hobbyist",
-    "reviewScore": 80.0
+    "reviewScore": 80.0,
+    "aiContent": "DROP"
 }
