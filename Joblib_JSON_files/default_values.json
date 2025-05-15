@@ -1,10 +1,5 @@
 {
-    "Unnamed: 0": "DROP",
-    "full_game_appid": 0,
-    "demo_appid": 0,
     "name": "#NAME?",
-    "base_appid": 0,
-    "dlc_appid": 0,
     "appid": 0,
     "metacritic": 73,
     "steam_achievements": false,
@@ -17,6 +12,6 @@
     "steamId": 3596260.0,
     "price": 0.0,
     "publisherClass": "Hobbyist",
-    "reviewScore": 80.0,
-    "aiContent": "DROP"
+    "reviewScore": 80.0
+    
 }
