@@ -1,0 +1,22 @@
+[
+    "steam_achievements",
+    "steam_trading_cards",
+    "workshop_support",
+    "achievements_total",
+    "is_release_date_known",
+    "is_upcoming",
+    "dlc_count",
+    "metacritic_preprocessed",
+    "has_metacritic",
+    "genre_Casual",
+    "genre_Free To Play",
+    "genre_Massively Multiplayer",
+    "genre_Nudity",
+    "genre_Other",
+    "genre_Sexual Content",
+    "genre_Simulation",
+    "genre_Violent",
+    "platform_windows",
+    "publisherClass_Indie",
+    "publisherClass_Other"
+]
