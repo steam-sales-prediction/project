@@ -32,6 +32,7 @@
       - [Results Using RFECV and GridSearch After Inverting The Log Transformation On Target Variable](#results-using-rfecv-and-gridsearch-after-inverting-the-log-transformation-on-target-variable)
       - [Results Using Mutual Information Feature Selection With Applying Quantile Transformer On The Target Variable And Inverting The Transformation After Making Predictions](#results-using-mutual-information-feature-selection-with-applying-quantile-transformer-on-the-target-variable-and-inverting-the-transformation-after-making-predictions)
     - [Classification](#classification-1)
+      - [Data Visualization](#data-visualization)
       - [Classification Summaries](#classification-summaries)
       - [Hyperparameter Tuning](#hyperparameter-tuning)
   - [Conclusions](#conclusions)
@@ -510,6 +511,25 @@ MIN MSE = 326023882144.2681 at 11 features
 ### Classification
 
 We label encoded the target variable, used RFE to feature select, and created code that can hyperparameter tune multiple hyperparameters for each model.
+
+#### Data Visualization
+
+The dataset demonstrates a notable class imbalance.To mitigate this issue, we employed specific strategies in our modeling process.
+
+
+We incorporated class weight adjustments into our models to account for the imbalance. Specifically, We used the `class_weight='balanced'` parameter in the following algorithms: 
+
+- **Logistic Regression**
+- **LinearSVC**
+
+This parameter automatically adjusts the weights assigned to each class in inverse proportion to their respective frequencies in the training data. This helps the models treat all classes more fairly.
+
+![alt text](dataVisualization.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 
 #### Classification Summaries
 
