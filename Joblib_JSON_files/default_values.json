@@ -1,7 +1,7 @@
 {
     "name": "#NAME?",
     "appid": 0,
-    "metacritic": 60,
+    "metacritic": -1,
     "steam_achievements": false,
     "steam_trading_cards": false,
     "workshop_support": false,
