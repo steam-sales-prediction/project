@@ -514,10 +514,10 @@ We label encoded the target variable, used RFE to feature select, and created co
 
 #### Data Visualization
 
-The dataset demonstrates a notable class imbalance.To mitigate this issue, we employed specific strategies in our modeling process.
+The dataset demonstrates a notable class imbalance. To mitigate this issue, we employed specific strategies in our modeling process.
 
 
-We incorporated class weight adjustments into our models to account for the imbalance. Specifically, We used the `class_weight='balanced'` parameter in the following algorithms: 
+We incorporated class weight adjustments into our models to account for the imbalance. Specifically, we used the `class_weight='balanced'` parameter in the following algorithms: 
 
 - **Logistic Regression**
 - **LinearSVC**
