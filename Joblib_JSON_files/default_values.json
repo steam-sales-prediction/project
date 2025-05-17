@@ -1,17 +1,17 @@
 {
     "name": "#NAME?",
     "appid": 0,
-    "metacritic": 73,
+    "metacritic": 60,
     "steam_achievements": false,
     "steam_trading_cards": false,
     "workshop_support": false,
     "genres": "Action, Adventure, Indie",
     "achievements_total": 18.0,
-    "release_date": "Coming soon",
-    "supported_platforms": "['windows']",
+    "release_date": "15 NOV 2020",
+    "supported_platforms": "['windows', 'linux']",
     "steamId": 3596260.0,
     "price": 0.0,
-    "publisherClass": "Indie",
-    "reviewScore": 80.0
+    "publisherClass": "AA",
+    "reviewScore": 70.0
     
 }

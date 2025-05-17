@@ -1,6 +1,6 @@
 {
-    "demos" : "../../data/testing-data/test_demo.csv",
-    "dlcs" : "../../data/testing-data/test_dlc.csv", 
-    "info_base_games" : "../../data/testing-data/test_info_base_games.csv",
-    "gamalytic_steam_games" : "../../data/testing-data/test_gamalytic_steam_games.csv"
+    "demos" : "../../data/testing-data/demos.csv",
+    "dlcs" : "../../data/testing-data/dlcs.csv", 
+    "info_base_games" : "../../data/testing-data/info_base_games.csv",
+    "gamalytic_steam_games" : "../../data/testing-data/gamalytic_steam_games_reg.csv"
 }
